@@ -39,5 +39,3 @@ Contributions are welcome! If you'd like to contribute to Game Shark, please for
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to customize this README to fit your project's specific details and requirements!
